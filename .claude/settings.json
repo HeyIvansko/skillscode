@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills add:*)",
+      "Bash(npx --yes skills add:*)",
+      "Bash(npx skills list:*)",
+      "Bash(npx skills remove:*)",
+      "Bash(npx skills update:*)"
+    ]
+  }
+}
